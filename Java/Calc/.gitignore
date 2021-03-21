@@ -1,0 +1,7 @@
+# Diretórios que não devem ser carregados do repositório
+.idea
+out
+
+# Arquivos de apoio
+search.txt
+documentation.txt

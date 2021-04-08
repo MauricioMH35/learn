@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DatabaseConnector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatabaseConnector_jar</output-path>
+    <root id="archive" name="DatabaseConnector.jar">
+      <element id="module-output" name="DatabaseConnector" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

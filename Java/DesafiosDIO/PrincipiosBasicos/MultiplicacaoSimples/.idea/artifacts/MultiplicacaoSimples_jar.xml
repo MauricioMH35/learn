@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiplicacaoSimples:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiplicacaoSimples_jar</output-path>
+    <root id="archive" name="MultiplicacaoSimples.jar">
+      <element id="module-output" name="MultiplicacaoSimples" />
+    </root>
+  </artifact>
+</component>

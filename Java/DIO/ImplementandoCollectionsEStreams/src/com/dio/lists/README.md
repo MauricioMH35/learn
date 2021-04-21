@@ -16,7 +16,7 @@ O *ArrayList* e o *Vector* são muito parecidos com uma diferença do *Vector* s
 | ```nomeVariavel.remove(INDICE);``` | Remove VALOR usando seu INDICE<br/>(A posição do item na lista) | ```Não Retorna ``` |
 | ``` nomeVariavel.remove(VALOR); ``` | Remove VALOR na lista com o objeto | ``` Não Retorna ``` |
 | ``` nomeVariavel.indexOf(VALOR); ``` | Descobre o valor do INDICE usando o <br/>objeto | ``` Integer ``` |
-| ``` nomeVariavel.size(INDICE); ``` | Quantidade de itens | ``` Integer ``` |
+| ``` nomeVariavel.size(); ``` | Quantidade de itens | ``` Integer ``` |
 | ``` nomeVariavel.get(INDICE); ``` | Pega VALOR indicado por um INDICE | ``` VALOR/OBJETO ``` |
 | ``` nomeVariavel.contains(VALOR); ``` | Verifica se contem VALOR | ``` boolean ``` |
 | ``` nomeVariavel.isEmpty(); ``` | Verifica se a lista está vazia | ``` boolean ``` |

@@ -2,6 +2,7 @@ package com.dio.set;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;
+import java.util.Set;
 
 public class ExampleLinkedHashSet {
     public static void main(String[] args) {
@@ -9,7 +10,7 @@ public class ExampleLinkedHashSet {
         // tentar manter a ordem dos elementos dentro da Collection faz com que seja mais lenta do que a
         // HashSetw
         System.out.println("Cria uma instância do LinkedHashSet.");
-        LinkedHashSet<Integer> sequenciaNumerica = new LinkedHashSet<>();
+        Set<Integer> sequenciaNumerica = new LinkedHashSet<>();
 
         // Adiciona os números para a sequência numerica
         System.out.println("\nAdiciona os números para a sequência numerica.");

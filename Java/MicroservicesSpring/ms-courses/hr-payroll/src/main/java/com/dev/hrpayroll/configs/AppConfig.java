@@ -9,6 +9,9 @@ import org.springframework.web.client.RestTemplate;
 @Configuration
 public class AppConfig {
 
+
+    /** Annotation para criar o componente por uma chamada de método.
+     * */
     @Bean
     public RestTemplate restTemplate() {
         return new RestTemplate();

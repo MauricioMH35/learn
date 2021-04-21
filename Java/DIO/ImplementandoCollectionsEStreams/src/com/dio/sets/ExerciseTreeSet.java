@@ -1,4 +1,4 @@
-package com.dio.set;
+package com.dio.sets;
 
 import java.util.*;
 
